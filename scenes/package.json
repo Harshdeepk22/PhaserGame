@@ -1,0 +1,174 @@
+{
+
+        "items": [{
+          "asset_item_id": 339,
+          "question": "What is the unchallengeable truth?",
+          "question_category": "LOT",
+          "answers": [{
+            "value": "If you cannot control your anger, you will never succeed.",
+            "is_correct": false
+          }, {
+            "value": "Show people if you are unhappy.",
+            "is_correct": false
+          }, {
+            "value": "If you get upset tell someone.",
+            "is_correct": false
+          }, {
+            "value": "If you cannot control your thoughts, you can never succeed.",
+            "is_correct": true
+          }]
+        }, {
+          "asset_item_id": 340,
+          "question": "What happens if you let your environment control your emotions?",
+          "question_category": "LOT",
+          "answers": [{
+            "value": "You can never succeed.",
+            "is_correct": true
+          }, {
+            "value": "You will be unhappy.",
+            "is_correct": false
+          }, {
+            "value": "You will be happy.",
+            "is_correct": false
+          }, {
+            "value": "You will waste time.",
+            "is_correct": false
+          }]
+        }, {
+          "asset_item_id": 341,
+          "question": "What do successful people generate?",
+          "question_category": "LOT",
+          "answers": [{
+            "value": "Their own money and optimism.",
+            "is_correct": false
+          }, {
+            "value": "Their own energy and optimism.",
+            "is_correct": true
+          }, {
+            "value": "Their own time and optimism.",
+            "is_correct": false
+          }, {
+            "value": "Their own time and money.",
+            "is_correct": false
+          }]
+        }, {
+          "asset_item_id": 342,
+          "question": "When others despair, what action do successful people take?",
+          "question_category": "HOT",
+          "answers": [{
+            "value": "To find reasons to celebrate the past.",
+            "is_correct": false
+          }, {
+            "value": "To find reasons to be negative about their environment.",
+            "is_correct": false
+          }, {
+            "value": "To find reasons to party.",
+            "is_correct": false
+          }, {
+            "value": "To put the right meaning to what happened to them.",
+            "is_correct": true
+          }]
+        }, {
+          "asset_item_id": 343,
+          "question": "Which country does the story teller come from?",
+          "question_category": "LOT",
+          "answers": [{
+            "value": "Carolina",
+            "is_correct": false
+          }, {
+            "value": "South-Africa",
+            "is_correct": false
+          }, {
+            "value": "South-America",
+            "is_correct": false
+          }, {
+            "value": "Canada",
+            "is_correct": true
+          }]
+        }, {
+          "asset_item_id": 344,
+          "question": "Which country is the story teller currently in?",
+          "question_category": "LOT",
+          "answers": [{
+            "value": "South-America",
+            "is_correct": false
+          }, {
+            "value": "Carolina",
+            "is_correct": false
+          }, {
+            "value": "Canada",
+            "is_correct": false
+          }, {
+            "value": "South-Africa",
+            "is_correct": true
+          }]
+        }, {
+          "asset_item_id": 345,
+          "question": "How do Canada and South Africa compare, according to the writer?",
+          "question_category": "HOT",
+          "answers": [{
+            "value": "Their conditions are much the same.",
+            "is_correct": false
+          }, {
+            "value": "South African people are not optimistic.",
+            "is_correct": false
+          }, {
+            "value": "South Africa is not as calm and stable as Canada.",
+            "is_correct": true
+          }, {
+            "value": "Canada has more happy people than South Africa.",
+            "is_correct": false
+          }]
+        }, {
+          "asset_item_id": 346,
+          "question": "Which two factors can influence your emotions?",
+          "question_category": "HOT",
+          "answers": [{
+            "value": "The environment and your energy.",
+            "is_correct": false
+          }, {
+            "value": "Your friends and your job.",
+            "is_correct": false
+          }, {
+            "value": "Your thoughts and your environment.",
+            "is_correct": true
+          }, {
+            "value": "The truth and your country of origin.",
+            "is_correct": false
+          }]
+        }, {
+          "asset_item_id": 347,
+          "question": "What kind of people and businesses will succeed?",
+          "question_category": "LOT",
+          "answers": [{
+            "value": "Healthy ones",
+            "is_correct": false
+          }, {
+            "value": "Friendly ones",
+            "is_correct": false
+          }, {
+            "value": "Positive ones",
+            "is_correct": true
+          }, {
+            "value": "Happy ones",
+            "is_correct": false
+          }]
+        }, {
+          "asset_item_id": 348,
+          "question": "What can make or break you?",
+          "question_category": "LOT",
+          "answers": [{
+            "value": "The kind of person you are.",
+            "is_correct": false
+          }, {
+            "value": "The personality you have.",
+            "is_correct": false
+          }, {
+            "value": "The energy that you radiate.",
+            "is_correct": true
+          }, {
+            "value": "The kindness you show to people.",
+            "is_correct": false
+          }]
+        }]
+}
