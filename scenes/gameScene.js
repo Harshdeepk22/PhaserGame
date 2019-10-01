@@ -111,12 +111,15 @@ export class gameScene extends Phaser.Scene {
         if (this.lines[cl - 3]) this.lines[cl - 3].alpha = 0.15;
        
         var graphicsss = this.add.graphics(50, 100);
-        graphicsss.lineStyle(5, 0xFF00FF, 1.0);
-        graphicsss.fillRect(20, 20, 200, 50);
-        var new_image = graphicsss.strokeRect(-190, this.lines[this.currLine].y-10, 300,40);
+        graphicsss.lineStyle(2, 0xbdb76b);
+        graphicsss.lineTo(-180, this.lines[this.currLine].y-10);
+        graphicsss.lineTo(140, this.lines[this.currLine].y-10);
+        graphicsss.lineTo(110, this.lines[this.currLine].y+30);
+        graphicsss.lineTo(-180, this.lines[this.currLine].y+30);
+        graphicsss.lineTo(-180, this.lines[this.currLine].y-10);
+        var new_image = graphicsss.stroke();
         var f = new_image;
         var t = this.add.image(0, 0, 'slotmask').setScale(4).setVisible(false);
-      
         t.x = this.lines[cl].x - 110;
         t.y = this.lines[cl].y + 8;
 
